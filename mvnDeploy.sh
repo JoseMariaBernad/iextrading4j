@@ -1,0 +1,1 @@
+mvn deploy -Dregistry=https://maven.pkg.github.com/JoseMariaBernad -Dtoken=my_token
